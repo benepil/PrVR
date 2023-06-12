@@ -7,9 +7,11 @@ Liste an Rätsel wurde erweitert
 
 ![alt text](./R%C3%A4tsel.jpg)
 
+\newsite
+
 ## Implementierung
 Layout der Räume abgeschlossen => hierfür wurde eine möglichst platzsparende Art der Raumanordnung gewählt 
-1
+
 ![alt text](./BaseLayout.PNG)
 
 ## Nächste Aufgaben
