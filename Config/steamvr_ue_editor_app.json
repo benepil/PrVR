@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.virtual-reality-bp-game-template-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Bene/Documents/Unreal Projects/PrVR/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Virtual Reality BP Game Template-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
