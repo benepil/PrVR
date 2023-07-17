@@ -1,1 +1,1 @@
-# PrVR
+# Excalibut (Gruppe 6)
